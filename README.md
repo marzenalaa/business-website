@@ -14,7 +14,7 @@ Additional Notes:
  - This project is still under development. Feel free to contribute or suggest improvements.
  - The code may not be fully optimized or follow best practices, as it primarily serves as a learning exercise.
 
-Live Demo: marzenalaa.github.io/business-website/
+Live Demo: https://marzenalaa.github.io/business-website/
 
 ![image](https://github.com/marzenalaa/business-website/assets/16385263/62c87c8a-72fe-4b71-b93c-c1033886014b)
 
