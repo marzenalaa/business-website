@@ -16,4 +16,5 @@ Additional Notes:
 
 Live Demo: marzenalaa.github.io/business-website/
 
-![Uploading image.png…]()
+![image](https://github.com/marzenalaa/business-website/assets/16385263/62c87c8a-72fe-4b71-b93c-c1033886014b)
+
